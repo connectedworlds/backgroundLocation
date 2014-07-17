@@ -63,7 +63,5 @@
 	
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
 	
-	<gap:plugin name="org.apache.cordova.battery-status" version="0.2.7" />
-	
     <access origin="*" />
 </widget>
